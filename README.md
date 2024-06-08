@@ -16,3 +16,6 @@ Python, Streamlit, Data Analysis, Data Visualization, Pandas, Plotly, Plotly Exp
 1. Clone the repository: `git clone https://github.com/EdidiongEkpoh/Adidas.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app: `streamlit run app.py`
+
+# Usage
+You can access the dashboard using this link: https://adidas-cz272wogo8qyhqcvvecu3e.streamlit.app/
