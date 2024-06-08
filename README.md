@@ -13,6 +13,6 @@ This project involves the creation of an interactive sales dashboard for Adidas 
 Python, Streamlit, Data Analysis, Data Visualization, Pandas, Plotly, Plotly Express, Plotly Graph Objects, Time Series Analysis, Interactive Dashboards, Data Cleaning, Data Aggregation, Excel Data Handling, User Interface Design, CSS Styling
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/your-username/adidas-sales-dashboard.git`
+1. Clone the repository: `git clone https://github.com/EdidiongEkpoh/Adidas.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app: `streamlit run app.py`
