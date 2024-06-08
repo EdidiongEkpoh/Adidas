@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+Pillow
+xlrd>=2.0.1
+openpyxl
+
